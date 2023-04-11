@@ -40,7 +40,7 @@ class MyHomePage extends StatelessWidget {
             child: Column(
               children: [
                 const Spacer(),
-                Image.asset("assets/images/logo.png", width: 200, height: 200),
+                Image.asset("assets/images/swift.png", width: 200, height: 200),
                 const Spacer(),
                 const Spacer(),
                 const Spacer(),
